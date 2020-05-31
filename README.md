@@ -116,7 +116,7 @@ considered a fail.
 
 
 ### Attachment
-Sometimes may want to capture additional data that is more complex or free-form
+Sometimes we may want to capture additional data that is more complex or free-form
 than a measurement. An _attachment_ can link arbitrary binary data to a
 test record, along with an optional MIME type.
 
